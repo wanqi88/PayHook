@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>server_url</key>
+    <string>http://pay.yzfaiu.xyz</string>
+    <key>monitor_secret</key>
+    <string>mapay_monitor_2024</string>
+    <key>monitor_name</key>
+    <string>iOS-Hook-01</string>
+    <key>debug</key>
+    <true/>
+    <key>visual_feedback</key>
+    <true/>
+    <key>dedup_window</key>
+    <real>30.0</real>
+    <!-- 新增：远程配置 URL（留空则使用内置默认 GitHub Raw 地址） -->
+    <key>remote_config_url</key>
+    <string></string>
+</dict>
+</plist>

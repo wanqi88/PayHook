@@ -1,0 +1,31 @@
+# 编译产物
+*.deb
+*.dylib
+.theos/
+packages/
+.buildnum
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# 压缩包
+*.zip
+*.tar.gz
+
+# 数据库/日志
+*.log
+data/*.png
+
+# 备份
+*.bak
+*.bak.*
+
+# 工作区记忆 (本地)
+.workbuddy/
+
+# 旧版本
+XJWeChatPay/
+XJWeChatPay 2/
+ios监控端/
+

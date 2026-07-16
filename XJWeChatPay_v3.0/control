@@ -1,0 +1,10 @@
+Package: com.xj.wechatpay
+Name: XJWeChatPay
+Depends: mobilesubstrate
+Version: 3.0.0-5
+Architecture: iphoneos-arm
+Description: WeChat payment monitor hook for MaPay v3.0 Enhanced — XML parsing, remote config, source whitelist, message dedup, contact enhancement
+Maintainer: XJ
+Author: XJ
+Section: Tweaks
+Homepage: https://pay.yzfaiu.xyz
