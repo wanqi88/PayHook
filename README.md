@@ -2,6 +2,12 @@
 
 基于 iOS Hook 技术的微信收款监听方案，自动匹配订单并回调商户，实现无人值守码支付。
 
+[![GitHub](https://img.shields.io/badge/GitHub-wanqi88%2FPayHook-07c160?logo=github)](https://github.com/wanqi88/PayHook)
+
+## 项目地址
+
+https://github.com/wanqi88/PayHook
+
 ## 系统概览
 
 ```
